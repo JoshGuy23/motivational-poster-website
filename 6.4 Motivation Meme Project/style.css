@@ -1,11 +1,10 @@
-.text {
-    font-family: 'Libre Baskerville', serif;
-    color: white;
-    text-align: center;
-}
-
 html {
     background-color: black;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
 }
 
 img {
@@ -13,9 +12,10 @@ img {
     width: 100%;
 }
 
-div {
-    width: 50%;
-    margin-left: 25%;
+.text {
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
 }
 
 h1 {
