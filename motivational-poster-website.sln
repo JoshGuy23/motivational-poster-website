@@ -3,6 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE38D03E-05AF-4BC2-8E06-DAF822E21979}"
+	ProjectSection(SolutionItems) = preProject
+		6.4 Motivation Meme Project\goal.png = 6.4 Motivation Meme Project\goal.png
+		6.4 Motivation Meme Project\index.html = 6.4 Motivation Meme Project\index.html
+		6.4 Motivation Meme Project\style.css = 6.4 Motivation Meme Project\style.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
